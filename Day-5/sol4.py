@@ -5,3 +5,4 @@ for i in range(1, 101):
         print('Fizz')
     elif(i % 5 == 0):
         print('Buzz')
+# 15 30 45 60 75 90 
